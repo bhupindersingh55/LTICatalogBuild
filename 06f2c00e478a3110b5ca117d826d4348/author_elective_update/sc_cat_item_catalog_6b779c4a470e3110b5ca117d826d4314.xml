@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Travel Request">1457184a470e3110b5ca117d826d43e1</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>developer_b</sys_created_by>
+        <sys_created_on>2023-10-24 01:12:36</sys_created_on>
+        <sys_id>6b779c4a470e3110b5ca117d826d4314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Travel Request</sys_name>
+        <sys_package display_value="LTICatalogBuild" source="x_842639_lticata_0">06f2c00e478a3110b5ca117d826d4348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LTICatalogBuild">06f2c00e478a3110b5ca117d826d4348</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_6b779c4a470e3110b5ca117d826d4314</sys_update_name>
+        <sys_updated_by>developer_b</sys_updated_by>
+        <sys_updated_on>2023-10-24 01:12:36</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LTICatalogBuild">06f2c00e478a3110b5ca117d826d4348</application>
+        <file_path/>
+        <instance_id>d16c902fdb8ffb4407072f17d49619a4</instance_id>
+        <instance_name>dev91289</instance_name>
+        <name>sc_cat_item_catalog_6b779c4a470e3110b5ca117d826d4314</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Travel Request">1457184a470e3110b5ca117d826d43e1</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>developer_b</sys_created_by><sys_created_on>2023-10-24 01:12:36</sys_created_on><sys_id>6b779c4a470e3110b5ca117d826d4314</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Travel Request</sys_name><sys_package display_value="LTICatalogBuild" source="x_842639_lticata_0">06f2c00e478a3110b5ca117d826d4348</sys_package><sys_policy/><sys_scope display_value="LTICatalogBuild">06f2c00e478a3110b5ca117d826d4348</sys_scope><sys_update_name>sc_cat_item_catalog_6b779c4a470e3110b5ca117d826d4314</sys_update_name><sys_updated_by>developer_b</sys_updated_by><sys_updated_on>2023-10-24 01:12:36</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-822486010</payload_hash>
+        <record_name>Service Catalog.Travel Request</record_name>
+        <reverted_from/>
+        <source>fc27544a470e3110b5ca117d826d4313</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>developer_b</sys_created_by>
+        <sys_created_on>2023-10-24 01:12:36</sys_created_on>
+        <sys_id>27779c4a470e3110b5ca117d826d4318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b5f3da22a0000001</sys_recorded_at>
+        <sys_updated_by>developer_b</sys_updated_by>
+        <sys_updated_on>2023-10-24 01:12:36</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>ab779c4a560e311027fbb061a36a7317</update_guid>
+        <update_guid_history>ab779c4a560e311027fbb061a36a7317:-822486010</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Travel Request">19879c4a470e3110b5ca117d826d43fe</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>developer_b</sys_created_by>
+        <sys_created_on>2023-10-24 01:12:43</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2d8ef649260e4e0aab13b0750b12ff64</sys_id>
+        <sys_metadata>6b779c4a470e3110b5ca117d826d4314</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Travel Request</sys_name>
+        <sys_package display_value="LTICatalogBuild" source="x_842639_lticata_0">06f2c00e478a3110b5ca117d826d4348</sys_package>
+        <sys_parent display_value="Travel Request">1457184a470e3110b5ca117d826d43e1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="LTICatalogBuild">06f2c00e478a3110b5ca117d826d4348</sys_scope>
+        <sys_scope_delete display_value="">98e11dd2436d48b68aafcf28fd6f89e4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_6b779c4a470e3110b5ca117d826d4314</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_6b779c4a470e3110b5ca117d826d4314">27779c4a470e3110b5ca117d826d4318</sys_update_version>
+        <sys_updated_by>developer_b</sys_updated_by>
+        <sys_updated_on>2023-10-24 01:12:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
